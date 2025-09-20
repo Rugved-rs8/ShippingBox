@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShippingBox/static/css/main.ceeef7fa.css",
+    "main.js": "/ShippingBox/static/js/main.0f949f8c.js",
+    "static/js/453.5ae3f1c6.chunk.js": "/ShippingBox/static/js/453.5ae3f1c6.chunk.js",
+    "index.html": "/ShippingBox/index.html",
+    "main.ceeef7fa.css.map": "/ShippingBox/static/css/main.ceeef7fa.css.map",
+    "main.0f949f8c.js.map": "/ShippingBox/static/js/main.0f949f8c.js.map",
+    "453.5ae3f1c6.chunk.js.map": "/ShippingBox/static/js/453.5ae3f1c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceeef7fa.css",
+    "static/js/main.0f949f8c.js"
+  ]
+}
